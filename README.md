@@ -7,6 +7,7 @@
     - 《一篇论文中最核心的部分（design）应该怎么写？为什么读了大量的文章却毫无收获？》
     - 《论文的实验部分应该怎么写？读者需要我们给他们展示什么试验结果？》
 - 🌟 How to Structure & Organize Your Paper - Odegaard Writing & Research Center (https://depts.washington.edu/owrc/wp-content/uploads/2021/05/How-to-Structure-and-Organize-Your-Paper.pdf) (中文版 https://mp.weixin.qq.com/s/C14N43RCuO6gWU73jCDZNg)
+    - [笔记](链接地址)
 - 《怎样写一篇优秀论文？》王汎森 https://mp.weixin.qq.com/s/MvYokLnM7aVDPF30HdqGoQ
 
 ### 2、thesis写作/答辩指南
