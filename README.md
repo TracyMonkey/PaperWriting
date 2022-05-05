@@ -2,7 +2,7 @@
 会议/期刊论文、硕士/博士学位论文写作资料收集，cs方向。
 
 ### 1、paper写作指南
-- 🌟 论文写作系列：（https://scientist-with-logic.github.io/）
+- 🌟 论文写作系列：（ https://scientist-with-logic.github.io/ ）
     - 《为什么你提出的idea会和别人重合？怎么写introduction和abstract？》
     - 《一篇论文中最核心的部分（design）应该怎么写？为什么读了大量的文章却毫无收获？》
     - 《论文的实验部分应该怎么写？读者需要我们给他们展示什么试验结果？》
@@ -19,3 +19,4 @@
 
 ### 4、其他：为什么读博
 - 🌟 The Ph.D. Grind（中文版：https://github.com/tracholar/phd-grind-chn）
+- [H. T. Kung的PHD advice](https://www.eecs.harvard.edu/htk/phdadvice/)
